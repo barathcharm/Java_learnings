@@ -7,11 +7,6 @@ public static void main(String[] args) {
 }
 }
 
-public class FirstJavaPracticeNumber {
-public static void main(String[] args) {
-	System.out.print("Barath");
-	
-}
-}
+
 
 //System.out.print(123456);
